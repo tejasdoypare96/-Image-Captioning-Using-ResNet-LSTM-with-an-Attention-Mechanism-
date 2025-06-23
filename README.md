@@ -34,7 +34,7 @@ The project implements an end-to-end image captioning system that:
 
 - Flickr8k dataset containing ~8000 images with 5 captions each.
 - Image preprocessing: resized and normalized to 299x299 or 224x224.
-- Captions tokenized using SpaCy tokenizer.
+- Captions are tokenized using the SpaCy tokenizer.
 - Vocabulary built with frequency thresholding to filter rare words.
 - Dataset loaded via custom PyTorch Dataset class and DataLoader.
 
@@ -73,6 +73,9 @@ The project implements an end-to-end image captioning system that:
 - Epochs: 100
 - Device: GPU or CPU
 - Loss: CrossEntropyLoss (ignoring <PAD> token)
-- TensorBoard used for monitoring loss.
+- TensorBoard is used for monitoring loss.
+  
+
+  
 
 
