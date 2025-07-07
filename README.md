@@ -1,4 +1,4 @@
-# Image Captioning Using ResNet-LSTM with an Attention Mechanism
+# Image Captioning Using ResNet-LSTM with an Attention Mechanism 
 
 An advanced image captioning model that combines ResNet-based CNN encoder, LSTM decoder, and attention mechanism to generate accurate image captions. Achieved a BLEU score of 0.68 using the Flickr8k dataset.
 
