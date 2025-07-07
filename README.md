@@ -2,7 +2,7 @@
 
 An advanced image captioning model that combines ResNet-based CNN encoder, LSTM decoder, and attention mechanism to generate accurate image captions. Achieved a BLEU score of 0.68 using the Flickr8k dataset.
 
-## 🚀 Project Overview
+## 🚀 Project Overview 
 
 The project implements an end-to-end image captioning system that:
 
